@@ -17,22 +17,22 @@ Someone playing in MRI research with a focus on:
 ## Technologies & Tools
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-black?logo=python)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools & Frameworks
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaiwulanjiangMaiming&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=MaiwulanjiangMaiming&theme=default&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaiwulanjiangMaiming&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=MaiwulanjiangMaiming&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ## Visitor Count
