@@ -31,8 +31,9 @@ Someone playing in MRI research with a focus on:
 
 ## GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaiwulanjiangMaiming&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=MaiwulanjiangMaiming&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+  <a href="https://github.com/MaiwulanjiangMaiming">
+    <img src="https://streak-stats.demolab.com?user=MaiwulanjiangMaiming&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+  </a>
 </p>
 
 ## Visitor Count
