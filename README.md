@@ -30,7 +30,7 @@ Someone playing in MRI research with a focus on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## GitHub Statistics
-<p align="left">
+<p align="center">
   <a href="https://github.com/MaiwulanjiangMaiming">
     <img src="https://streak-stats.demolab.com?user=MaiwulanjiangMaiming&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
   </a>
