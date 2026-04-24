@@ -29,6 +29,10 @@ Someone playing in MRI research with a focus on:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 3D Modeling & Design
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-418FDE?style=for-the-badge&logo=freecad&logoColor=white)
+
 ## GitHub Statistics
 <p align="center">
   <a href="https://github.com/MaiwulanjiangMaiming">
