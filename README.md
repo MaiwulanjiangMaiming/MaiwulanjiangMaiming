@@ -94,3 +94,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaiwulanjiangMaiming&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+## 🎮 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/pacman-contribution-graph.svg">
+</picture>
