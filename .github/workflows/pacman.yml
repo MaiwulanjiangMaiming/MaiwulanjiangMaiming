@@ -1,4 +1,4 @@
-name: Generate Pacman Game
+name: Generate Arcade Contribution Graphs
 
 on:
   schedule:
@@ -13,15 +13,16 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
 
     steps:
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate Galaga contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          games: 'galaga'
 
-      - name: Push pacman-contribution-graph.svg to output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
