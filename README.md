@@ -97,10 +97,59 @@
 
 ---
 
-## 🚀 Contribution Graph
+## 🧲 GitHub Resonance Imaging (GRI)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph-dark.svg">
-  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/GRI-contribution-graph/output/gri-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/GRI-contribution-graph/output/gri-light.svg">
+    <img alt="GitHub Resonance Imaging — MRI scan of my contribution graph" src="https://raw.githubusercontent.com/MaiwulanjiangMaiming/GRI-contribution-graph/output/gri-dark.svg">
+  </picture>
+</p>
+
+<p align="center">
+  Forget flat squares — my contribution graph now comes with <b>k-space filling, echo formation, and image reconstruction</b>. An actual MRI scan of your GitHub year. 🩻
+</p>
+
+<p align="center">
+  <a href="https://github.com/MaiwulanjiangMaiming/GRI-contribution-graph">
+    <img src="https://img.shields.io/badge/🧲_Give_your_graph_an_MRI-GRI--contribution--graph-4A90D9?style=for-the-badge&logoColor=white" alt="GRI-contribution-graph">
+  </a>
+  <a href="https://maiwulanjiangmaiming.github.io/pages/gri-demo.html">
+    <img src="https://img.shields.io/badge/▶_Live_Demo-Try_it_now-45e0d8?style=for-the-badge&logoColor=white" alt="GRI Live Demo">
+  </a>
+</p>
+
+<!-- 
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  🔒  SECRET MENU — wait, you actually viewed the source?! Respect. 🫡 │
+  └─────────────────────────────────────────────────────────────────────┘
+
+  So you discovered my GRI (GitHub Resonance Imaging) and you want to use it?
+
+  Grab it here:  https://github.com/MaiwulanjiangMaiming/GRI-contribution-graph
+  It's a one-line GitHub Action — point it at your username and your
+  contribution graph becomes an animated MRI scan. Free & MIT licensed.
+
+  One small favor in return: share it with more people! Star ⭐ it,
+  drop it in your group chat, tell your lab mates — GRI spreads by word
+  of (echoes of) mouth. 🙏
+
+  And since you read this far, you've earned a cold joke:
+
+      Q: What did the hydrogen atom say after the MRI flipped it 42°?
+      A: "Nothing... I'm just going through a phase." 🌀
+                                      (phase encoding — TR 7d, TE 24h)
+
+  ...I warned you it was cold. Cold like a superconducting magnet at 4K. 🥶
+-->
+
+<!--
+  ## 🚀 Old Contribution Graph (Galaga)
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph-dark.svg">
+    <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph.svg">
+  </picture>
+-->
