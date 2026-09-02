@@ -101,9 +101,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/GRI-contribution-graph/output/gri-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/GRI-contribution-graph/output/gri-light.svg">
-    <img alt="GitHub Resonance Imaging — MRI scan of my contribution graph" src="https://raw.githubusercontent.com/MaiwulanjiangMaiming/GRI-contribution-graph/output/gri-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/gri-output/gri-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/gri-output/gri-light.svg">
+    <img alt="GitHub Resonance Imaging — MRI scan of my contribution graph" src="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/gri-output/gri-dark.svg">
   </picture>
 </p>
 
