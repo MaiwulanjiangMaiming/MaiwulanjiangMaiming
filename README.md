@@ -35,6 +35,67 @@
 
 ---
 
+## 🔭 Featured Projects
+
+Things I build when the research day is (mostly) over — a medical-imaging toolkit, a couple of macOS quality-of-life hacks, and one very niche joke.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧲 <a href="https://github.com/MaiwulanjiangMaiming/GRI-contribution-graph">GRI-contribution-graph</a></h3>
+      Your contribution graph, rebuilt as an animated MRI scan — k-space fill, echoes and all.<br>
+      <code>JavaScript</code> · MIT · one-line GitHub Action
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/MaiwulanjiangMaiming/NiftiSpy">NiftiSpy</a></h3>
+      High-performance NIfTI medical image viewer inside VS Code.<br>
+      <code>TypeScript</code> · VS Code extension
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧮 <a href="https://github.com/MaiwulanjiangMaiming/MatrixSpy">MatrixSpy</a></h3>
+      Explore, visualise and export MATLAB <code>.mat</code> files without leaving the editor.<br>
+      <code>TypeScript</code> · VS Code extension
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/MaiwulanjiangMaiming/Project-Manager-X">Project-Manager-X</a></h3>
+      Tag, task, milestone and lifecycle tracking for projects, straight from VS Code.<br>
+      <code>TypeScript</code> · VS Code extension
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/MaiwulanjiangMaiming/DualWeChat">DualWeChat</a></h3>
+      Two WeChat instances on one Mac — bundle-ID rewrite, one-click install, 5 icon palettes.<br>
+      <code>Shell</code> · macOS
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/MaiwulanjiangMaiming/DualTrae">DualTrae</a></h3>
+      Run multiple Trae instances on macOS with one click.<br>
+      <code>Shell</code> · macOS
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/MaiwulanjiangMaiming/academic-gantt">academic-gantt</a></h3>
+      Zero-dependency, single-file Gantt chart for research proposals. Print-to-PDF ready.<br>
+      <code>HTML</code> · CC BY-NC 4.0
+    </td>
+    <td width="50%" valign="top">
+      <h3>🪨 <a href="https://github.com/MaiwulanjiangMaiming/Cairn">Cairn</a></h3>
+      Native macOS todo widget on the wallpaper layer — today's tasks, always a glance away.<br>
+      <code>Swift</code> · SwiftUI + AppKit
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://github.com/MaiwulanjiangMaiming?tab=repositories">Browse all repositories →</a>
+</p>
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
@@ -142,14 +203,4 @@
                                       (phase encoding — TR 7d, TE 24h)
 
   ...I warned you it was cold. Cold like a superconducting magnet at 4K. 🥶
--->
-
-<!--
-  ## 🚀 Old Contribution Graph (Galaga)
-
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph-dark.svg">
-    <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/MaiwulanjiangMaiming/MaiwulanjiangMaiming/output/galaga-contribution-graph.svg">
-  </picture>
 -->
